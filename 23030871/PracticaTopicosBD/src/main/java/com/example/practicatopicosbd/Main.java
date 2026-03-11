@@ -20,7 +20,7 @@ public class Main {
             System.out.println("1. Insertar estudiante");
             System.out.println("2. Mostrar estudiantes");
             System.out.println("3. Actualizar estudiante");
-            System.out.println("4. Eliminar estudiante");
+            System.out.println("Eliminar un estudiante");
             System.out.println("5. Salir");
 
             opcion = sc.nextInt();
